@@ -1,4 +1,8 @@
 {
   "ESP": "ESP",
-  "enabled": "enabled"
+  "enabled": "enabled",
+  "Gold": "Gold",
+  "Item": "Item",
+  "Closet": "Closet",
+  "Door": "Door"
 }
