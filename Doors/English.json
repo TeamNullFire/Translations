@@ -93,5 +93,30 @@
   "tracerspawn": "Tracer Origin",
   "anticheatthingyidk": "anticheat bypass keybind",
   "nolightingstrike": "No Lighting Entity",
-  "MfNiC": "Message for Notify in Chat"
+  "MfNiC": "Message for Notify in Chat",
+
+  "tabs.readme": "Read Me",
+  "tabs.readme.recommendedexecs": "Recommended executors:",
+  "tabs.readme.officialloadstring": "the option below is totally for no reason here at all trust ong",
+  "tabs.readme.copyloadstring": "Copy official loadstring",
+  "tabs.readme.luraphmsg": "if you want to help us stay on luraph (the obfuscator) donate here: https://ko-fi.com/seikoso",
+  "tabs.readme.copydonolink": "Copy Donation Link",
+  "tabs.readme.joindiscord": "join our discord https://dsc.gg/nullfire for updates",
+
+  "tabs.notifs.playsound": "Play Sound",
+
+  "tabs.misc.playagain": "Play Again (Restart)",
+  "tabs.misc.lobby": "Go to Lobby",
+
+  "tabs.move.holdtheykey": "you need to hold the keybind by default",
+
+  "tabs.char.revive": "Revive (paid)",
+  "tabs.char.reset": "Reset Char",
+
+  "tabs.miscfun.uhhhhhyeahthismightbereal": "Summon Femboy Detector nyaaa~",
+  "tabs.miscfun.caption": "Caption!",
+
+  "tabs.filterin.breakdoor": "Break Doors",
+
+  "message.langs": "Some Text may only translate after a restart!"
 }
