@@ -96,6 +96,7 @@
   "MfNiC": "Message for Notify in Chat",
 
   "tabs.readme": "Read Me",
+  "tabs.readme.changelogs": "Changelog",
   "tabs.readme.recommendedexecs": "Recommended executors:",
   "tabs.readme.officialloadstring": "the option below is totally for no reason here at all trust ong",
   "tabs.readme.copyloadstring": "Copy official loadstring",
@@ -103,20 +104,49 @@
   "tabs.readme.copydonolink": "Copy Donation Link",
   "tabs.readme.joindiscord": "join our discord https://dsc.gg/nullfire for updates",
 
-  "tabs.notifs.playsound": "Play Sound",
+  "tabs.Main": "Main",
+  "tabs.Main.misc": "Miscellaneous",
+  "tabs.Main.auto": "Automation",
+  "tabs.Main.notifs": "Notifiers",
+  "tabs.Main.Auras": "Auras",
 
-  "tabs.misc.playagain": "Play Again (Restart)",
-  "tabs.misc.lobby": "Go to Lobby",
+  "tabs.Main.misc.playagain": "Play Again (Restart)",
+  "tabs.Main.misc.lobby": "Go to Lobby",
+  
+  "tabs.Main.notifs.playsound": "Play Sound",
 
-  "tabs.move.holdtheykey": "you need to hold the keybind by default",
+  "tabs.Player": "Player",
+  "tabs.Player.move": "Movement",
+  "tabs.Player.move.holdtheykey": "you need to hold the keybind by default",
+  "tabs.Player.char": "Character",
+  "tabs.Player.char.revive": "Revive (paid)",
+  "tabs.Player.char.reset": "Reset Char",
 
-  "tabs.char.revive": "Revive (paid)",
-  "tabs.char.reset": "Reset Char",
+  "tabs.Cheats": "Cheats",
+  "tabs.Cheats.entrem": "Entity Removers",
+  "tabs.Cheats.antient": "Anti Entity",
+  "tabs.Cheats.avoid": "Avoiding",
 
-  "tabs.miscfun.uhhhhhyeahthismightbereal": "Summon Femboy Detector nyaaa~",
-  "tabs.miscfun.caption": "Caption!",
+  "tabs.Visuals": "Visuals",
+  "tabs.Visuals.Camera": "Camera",
+  "tabs.Visuals.Lighting": "Lighting",
+  "tabs.Visuals.ESPSettings": "ESP Settings",
 
-  "tabs.filterin.breakdoor": "Break Doors",
+  "tabs.Floors": "Floors",
+  "tabs.Floors.TheRooms": "The Rooms",
+  "tabs.Floors.SUPERHARDMODE": "SUPER HARD MODE",
+  "tabs.Floors.Floor2": "Floor 2",
+  "tabs.Floors.TheOutdoors": "The Outdoors",
+  "tabs.Floors.PartyMode": "Party (Ranked/Battle) Mode",
+
+  "tabs.Fun": "Fun",
+  "tabs.Fun.filterin": "FE",
+  "tabs.Fun.filterin.breakdoor": "Break Doors",
+  "tabs.Fun.miscfun": "Miscellaneous",
+  "tabs.Fun.miscfun.uhhhhhyeahthismightbereal": "Summon Femboy Detector nyaaa~",
+  "tabs.Fun.miscfun.caption": "Caption!",
+
+  "tabs.UISettings": "UI Settings",
 
   "message.langs": "Some Text may only translate after a restart!",
   "language": "Language",
