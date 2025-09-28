@@ -118,5 +118,9 @@
 
   "tabs.filterin.breakdoor": "Break Doors",
 
-  "message.langs": "Some Text may only translate after a restart!"
+  "message.langs": "Some Text may only translate after a restart!",
+  "language": "Language",
+
+  "unload": "Unload",
+  "menubind": "Menu bind"
 }
