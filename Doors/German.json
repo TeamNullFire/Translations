@@ -39,7 +39,7 @@
   "antijeffo": "Anti jeff",
   "nobatthing": "Entferne Gloombat eier",
   "rainbowesp": "Regenbogen ESP Aktiviert",
-  "instantpp": "Sofot Proximity Prompt",
+  "instantpp": "Sofort Proximity Prompt",
   "autohide": "Auto Verstecken",
   "NEToggle": "Benachrichtige Entities",
   "APAToggle": "Auto Nochmal Spielen",
@@ -93,5 +93,63 @@
   "tracerspawn": "Indikator Ursprung",
   "anticheatthingyidk": "anticheat bypass knopf",
   "nolightingstrike": "Kein Blitz Wesen",
-  "MfNiC": "Nachricht für Benachrichtigung in Chat"
+  "MfNiC": "Nachricht für Benachrichtigung in Chat",
+  
+  "tabs.readme": "Lese Mich",
+  "tabs.readme.changelogs": "Änderungen",
+  "tabs.readme.recommendedexecs": "Rekommendierte executor:",
+  "tabs.readme.officialloadstring": "die option da ist für gar keinen grund da auf gott",
+  "tabs.readme.copyloadstring": "Kopiere offiziele loadstring",
+  "tabs.readme.luraphmsg": "wenn du uns helfen willst auf luraph (der obfuscator): https://ko-fi.com/seikoso",
+  "tabs.readme.copydonolink": "Kopiere Spende Link",
+  "tabs.readme.joindiscord": "Trete unserem discord bei https://dsc.gg/nullfire für updates",
+
+  "tabs.Main": "Haupt",
+  "tabs.Main.misc": "Verschiedenes",
+  "tabs.Main.auto": "Automation",
+  "tabs.Main.notifs": "Benachrichtigung",
+  "tabs.Main.Auras": "Auras",
+
+  "tabs.Main.misc.playagain": "Noch mal Spielen (zurücksetzen)",
+  "tabs.Main.misc.lobby": "Zur Lobby",
+  
+  "tabs.Main.notifs.playsound": "Spiele Klang",
+
+  "tabs.Player": "Spieler",
+  "tabs.Player.move": "Bewegung",
+  "tabs.Player.move.holdtheykey": "du musst den keybind standardlich halten",
+  "tabs.Player.char": "Character",
+  "tabs.Player.char.revive": "Wiederbeleben (bezahlt)",
+  "tabs.Player.char.reset": "Charakter zurücksetzen",
+
+  "tabs.Cheats": "Cheats",
+  "tabs.Cheats.entrem": "Wesen Entferner",
+  "tabs.Cheats.antient": "Anti Wesen",
+  "tabs.Cheats.avoid": "Vermeidung",
+
+  "tabs.Visuals": "Visuell",
+  "tabs.Visuals.Camera": "Kamera",
+  "tabs.Visuals.Lighting": "Licht",
+  "tabs.Visuals.ESPSettings": "ESP einstellung",
+
+  "tabs.Floors": "Stockwerke",
+  "tabs.Floors.TheRooms": "Die Räume",
+  "tabs.Floors.SUPERHARDMODE": "SEHR SCHWIERIG MODUS",
+  "tabs.Floors.Floor2": "Stockwerk 2",
+  "tabs.Floors.TheOutdoors": "Draußen",
+  "tabs.Floors.PartyMode": "Party (Rang/Kampf) Modus",
+
+  "tabs.Fun": "Spaß",
+  "tabs.Fun.filterin": "FE",
+  "tabs.Fun.filterin.breakdoor": "Zerstöre Türen",
+  "tabs.Fun.miscfun.uhhhhhyeahthismightbereal": "Beschwöre Femboy Detektor nyaaa~",
+  "tabs.Fun.miscfun.caption": "Untertitel!",
+
+  "tabs.UISettings": "UI einstellung",
+
+  "message.langs": "mancher text wird nur nach einem neustart übersetzt",
+  "language": "Sprache",
+
+  "unload": "Entladen",
+  "menubind": "Menü Knopf"
 }
