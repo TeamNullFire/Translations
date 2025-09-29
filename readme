@@ -1,4 +1,7 @@
 the nullfire translation thing yeah
 
 how to contribute:
-idk i based this system on shits and giggles
+1. fork this repo
+2. copy the English.json in the specified game
+3. translate
+4. make a pull request
