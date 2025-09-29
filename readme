@@ -2,6 +2,6 @@ the nullfire translation thing yeah
 
 how to contribute:
 1. fork this repo
-2. copy the English.json in the specified game
+2. copy the English.json in the specified game. dont forget to chaneg the name to be the language
 3. translate
 4. make a pull request

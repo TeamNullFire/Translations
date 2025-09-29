@@ -152,5 +152,7 @@
   "language": "Language",
 
   "unload": "Unload",
-  "menubind": "Menu bind"
+  "menubind": "Menu bind",
+
+  "transl": "Translators:"
 }
