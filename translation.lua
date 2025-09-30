@@ -39,6 +39,7 @@ end
 
 translate.langs = trytogetda(translate.base.."langs.json") or {"English"}
 translate.version = trytogetda(translate.base.."ver.json")
+translate.translators = trytogetda(translate.base.."translators.json")
 
 function translate:loadlang(lang: string)
 	if self.LangSave[lang] then
@@ -145,7 +146,7 @@ function translate:init()
 	if success and lang then
 		lang = lang:match("^%s*(.-)%s*$")
 	end
-	
+
 	translate.thefounddefault = lang or "English"
 
 	for _,v in pairs(listfiles(translate.baseFolder)) do
@@ -159,7 +160,7 @@ function translate:init()
 			pcall(delfile, v)
 
 			repeat task.wait() until not isfile(v) -- i think there was an exec that used a queue system if i remember correctly so just for safety
-			
+
 			if name == lang then
 				self:loadlang(lang) -- technically not needed but good to have i think
 			end
