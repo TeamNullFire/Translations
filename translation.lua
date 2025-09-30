@@ -155,7 +155,7 @@ function translate:init()
 
 		local name, ver = string.match(parts[#parts], "([^_]+)_([%d%.]+)%.json")
 
-		if name and ver and ver == translate.version[name] then
+		if name and ver and ver ~= translate.version[name] then
 			pcall(delfile, v)
 
 			repeat task.wait() until not isfile(v) -- i think there was an exec that used a queue system if i remember correctly so just for safety
