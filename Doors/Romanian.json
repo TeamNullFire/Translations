@@ -143,10 +143,11 @@
   "tabs.UISettings": "Setări UI",
 
   "message.langs": "Unele texte se pot traduce doar după repornire!",
-  "language": "Language",
+  "language": "Limbă",
 
-  "unload": "Unload",
-  "menubind": "Menu bind",
+  "unload": "Descărcare",
+  "menubind": "Bind meniu",
 
-  "transl": "Translators:"
+  "devs": "Dezvoltatori:",
+  "transl": "Traducători:"
 }
