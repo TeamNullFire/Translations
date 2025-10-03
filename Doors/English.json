@@ -126,6 +126,7 @@
   "tabs.Cheats.entrem": "Entity Removers",
   "tabs.Cheats.antient": "Anti Entity",
   "tabs.Cheats.avoid": "Avoiding",
+  "godmode": "Godmode",
 
   "tabs.Visuals": "Visuals",
   "tabs.Visuals.Camera": "Camera",
@@ -138,6 +139,9 @@
   "tabs.Floors.Floor2": "Floor 2",
   "tabs.Floors.TheOutdoors": "The Outdoors",
   "tabs.Floors.PartyMode": "Party (Ranked/Battle) Mode",
+  "ladderbypass": "Auto Ladder Bypass",
+  "ladderinfo": "next time you get on a ladder it will enable",
+  "laddercuts": "Ladder bypass will stop after a cutscene",
 
   "tabs.Fun": "Fun",
   "tabs.Fun.filterin": "FE",

@@ -126,6 +126,7 @@
   "tabs.Cheats.entrem": "Wesen Entferner",
   "tabs.Cheats.antient": "Anti Wesen",
   "tabs.Cheats.avoid": "Vermeidung",
+  "godmode": "Unsterblichkeit",
 
   "tabs.Visuals": "Visuell",
   "tabs.Visuals.Camera": "Kamera",
@@ -138,6 +139,9 @@
   "tabs.Floors.Floor2": "Stockwerk 2",
   "tabs.Floors.TheOutdoors": "Draußen",
   "tabs.Floors.PartyMode": "Party (Rang/Kampf) Modus",
+  "ladderbypass": "Auto Leiter umgehung",
+  "ladderinfo": "das nächste mal auf einer Leiter tut es einschalten!",
+  "laddercuts": "Leiter umgehung wird nach einer zwischensequenz stopped!",
 
   "tabs.Fun": "Spaß",
   "tabs.Fun.filterin": "FE",
