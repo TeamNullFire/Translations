@@ -141,7 +141,7 @@
   "tabs.Floors.PartyMode": "Party (Rang/Kampf) Modus",
   "ladderbypass": "Auto Leiter umgehung",
   "ladderinfo": "das nächste mal auf einer Leiter tut es einschalten!",
-  "laddercuts": "Leiter umgehung wird nach einer zwischensequenz stopped!",
+  "laddercuts": "Leiter umgehung wird nach einer zwischensequenz stoppen!",
 
   "tabs.Fun": "Spaß",
   "tabs.Fun.filterin": "FE",
