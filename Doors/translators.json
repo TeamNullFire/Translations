@@ -16,5 +16,11 @@
         "langs": [
             "French"
         ]
+    },
+    "cookie": {
+        "color": "#bba5e6",
+        "langs": [
+            "Dutch"
+        ]
     }
 }
