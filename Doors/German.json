@@ -127,6 +127,8 @@
   "tabs.Cheats.entrem": "Wesen Entferner",
   "tabs.Cheats.antient": "Anti Wesen",
   "tabs.Cheats.avoid": "Vermeidung",
+  "autodoors": "Auto Spielen",
+  "knobfarm": "Knob Farm",
   "godmode": "Unsterblichkeit",
 
   "tabs.Visuals": "Visuell",
@@ -152,7 +154,7 @@
 
   "tabs.UISettings": "UI einstellung",
 
-  "message.langs": "mancher text wird nur nach einem neustart übersetzt",
+  "message.langs": "mancher text wird nur nach einem neustart übersetzt! nicht vergessen die Einstellungen zu speichern!",
   "language": "Sprache",
 
   "unload": "Entladen",

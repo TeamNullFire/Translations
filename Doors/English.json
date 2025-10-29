@@ -129,6 +129,7 @@
   "tabs.Cheats.avoid": "Avoiding",
   "tabs.Cheats.utility": "Utility",
   "tabs.Cheats.knobtutorial": "Copy Knob Farm Tutorial",
+  "autodoors": "Auto Doors",
   "knobfarm": "Knob Farm",
   "godmode": "Godmode",
 
@@ -156,7 +157,7 @@
 
   "tabs.UISettings": "UI Settings",
 
-  "message.langs": "Some Text may only translate after a restart!",
+  "message.langs": "Some Text may only translate after a restart! dont forget to save the config so it applies!",
   "language": "Language",
 
   "unload": "Unload",
