@@ -165,6 +165,8 @@
 
   "unload": "Unload",
   "menubind": "Menu bind",
+  "Token": "Token for rich presence",
+  "richpresence": "Enable rich presence",
 
   "devs": "Developers:",
   "transl": "Translators:",
