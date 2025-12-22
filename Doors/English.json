@@ -166,7 +166,7 @@
   "unload": "Unload",
   "menubind": "Menu bind",
   "Token": "Token for rich presence",
-  "richpresence": "Enable rich presence",
+  "Zrichpresence": "Enable rich presence",
   "tabs.Settings.RichpresenceInfo": "Token for rich presence isnt shared with anyone (only discord cuz we need to send it to auth). to use rich presence token is required! It works on mobile and pc without needing bloxstrap",
 
   "devs": "Developers:",
