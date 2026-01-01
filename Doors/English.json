@@ -98,6 +98,7 @@
 
   "tabs.readme": "Read Me",
   "tabs.readme.changelogs": "Changelog",
+  "tabs.readme.userconf": "User Overview",
   "tabs.readme.recommendedexecs": "Recommended executors:",
   "tabs.readme.officialloadstring": "the option below is totally for no reason here at all trust ong",
   "tabs.readme.copyloadstring": "Copy official loadstring",
@@ -139,6 +140,7 @@
   "tabs.Visuals.Lighting": "Lighting",
   "tabs.Visuals.ESPSettings": "ESP Settings",
   "otheresp": "Chest/Toolshed ESP enabled",
+  "textxscale": "Text X Scale",
 
   "tabs.Floors": "Floors",
   "tabs.Floors.TheRooms": "The Rooms",
