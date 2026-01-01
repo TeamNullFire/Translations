@@ -105,6 +105,8 @@
   "tabs.readme.luraphmsg": "if you want to help us stay on luraph (the obfuscator) donate here: https://ko-fi.com/seikoso",
   "tabs.readme.copydonolink": "Copy Donation Link",
   "tabs.readme.joindiscord": "join our discord https://dsc.gg/nullfire for updates",
+  "refetch": "Refetch expire time",
+  "keyexpires": "Key expires in: [To be loaded]",
 
   "tabs.Main": "Main",
   "tabs.Main.misc": "Miscellaneous",
